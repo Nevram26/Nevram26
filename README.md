@@ -82,6 +82,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nevram26/Nevram26/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nevram26/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
