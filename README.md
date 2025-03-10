@@ -78,10 +78,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nevram26/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
